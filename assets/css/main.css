@@ -2935,14 +2935,14 @@
 			top: 7em;
 		}
 
-/* Contact */
+/* contributing */
 
-	#contact {
+	#contributing {
 		padding-bottom: 0;
 		overflow: hidden;
 	}
 
-		#contact .box {
+		#contributing .box {
 			-moz-transition: all 1s ease;
 			-webkit-transition: all 1s ease;
 			-ms-transition: all 1s ease;
@@ -2955,7 +2955,7 @@
 			bottom: 0;
 		}
 
-		#contact.inactive .box {
+		#contributing.inactive .box {
 			bottom: -30em;
 		}
 
